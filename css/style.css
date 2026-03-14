@@ -97,6 +97,10 @@ body {
         padding: 20px;
     }
 
+    .col-lg-6.service-txt {
+        padding-top: 35px;
+    }
+
 }
 
 /* Navbar toggle icon fix */
